@@ -1,6 +1,6 @@
 {
   "name": "pixi-3d-photo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple 3D photo generator.",
   "main": "index.js",
   "scripts": {
