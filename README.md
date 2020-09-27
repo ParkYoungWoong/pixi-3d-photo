@@ -4,7 +4,7 @@
 $ npm i pixi-3d-photo
 ```
 
-![Sample]()
+<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/sample.gif" width="500" />
 
 ```js
 import { generate3dPhoto } from './pixi-3d-photo'
