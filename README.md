@@ -11,7 +11,7 @@ If this plugin does not work, Check your browser's hardware acceleration option.
 
 Image credit: [Create 3D Photo from Image JavaScript Tutorial, Red Stapler](https://redstapler.co/3d-photo-from-image-javascript-tutorial)
 
-## Install
+## Installation
 
 ```bash
 $ npm i pixi-3d-photo
@@ -24,7 +24,7 @@ $ npm i pixi-3d-photo
 ```
 
 ```js
-import { generate3dPhoto } from './pixi-3d-photo'
+import { generate3dPhoto } from 'pixi-3d-photo'
 
 generate3dPhoto({
   el: '#pikachu', // Required
