@@ -4,14 +4,17 @@
 $ npm i pixi-3d-photo
 ```
 
-<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/sample.gif" width="500" />
-
 You need the original image and the depth map image.<br />
-(Image credit: [Create 3D Photo from Image JavaScript Tutorial (Red Stapler)](https://redstapler.co/3d-photo-from-image-javascript-tutorial/))
+Your browser must support WebGL.<br />
+If this plugin does not work, Check your browser's hardware acceleration option.
+
+<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/sample.gif" width="500" /> 
 
 <img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.jpg" width="300" />
-<br />  
+<br />
 <img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.map.jpg" width="300" />
+<br />
+Image credit: [Create 3D Photo from Image JavaScript Tutorial (Red Stapler)](https://redstapler.co/3d-photo-from-image-javascript-tutorial)
 
 ```html
 <div id="pikachu"></div>
