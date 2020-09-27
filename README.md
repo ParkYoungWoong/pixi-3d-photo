@@ -1,20 +1,23 @@
 # 3D photo generator by PixiJS
 
-```bash
-$ npm i pixi-3d-photo
-```
-
 You need the original image and the depth map image.<br />
 Your browser must support WebGL.<br />
 If this plugin does not work, Check your browser's hardware acceleration option.
 
 <img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/sample.gif" width="500" /> 
 
-<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.jpg" width="300" />
-<br />
-<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.map.jpg" width="300" />
-<br />
-Image credit: [Create 3D Photo from Image JavaScript Tutorial (Red Stapler)](https://redstapler.co/3d-photo-from-image-javascript-tutorial)
+<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.jpg" width="260" />
+<img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/pikachu.map.jpg" width="260" />
+
+Image credit: [Create 3D Photo from Image JavaScript Tutorial, Red Stapler](https://redstapler.co/3d-photo-from-image-javascript-tutorial)
+
+## Install
+
+```bash
+$ npm i pixi-3d-photo
+```
+
+## How to use
 
 ```html
 <div id="pikachu"></div>
