@@ -1,4 +1,5 @@
-# 3D photo generator by PixiJS
+# pixi-3d-photo
+## 3D photo generator by PixiJS
 
 You need the original image and the [depth map.](https://en.wikipedia.org/wiki/Depth_map) <br />
 Also, your browser must support WebGL.<br />
