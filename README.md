@@ -1,7 +1,7 @@
 # 3D photo generator by PixiJS
 
 You need the original image and the depth map image.<br />
-Your browser must support WebGL.<br />
+Also, your browser must support WebGL.<br />
 If this plugin does not work, Check your browser's hardware acceleration option.
 
 <img src="https://github.com/ParkYoungWoong/pixi-3d-photo/blob/master/assets/sample.gif" width="500" /> 
