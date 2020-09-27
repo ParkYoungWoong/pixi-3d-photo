@@ -27,9 +27,9 @@ $ npm i pixi-3d-photo
 import { generate3dPhoto } from 'pixi-3d-photo'
 
 generate3dPhoto({
-  el: '#pikachu', // Required
-  src: 'pikachu.jpg', // Required
-  srcMap: 'pikachu.map.jpg', // Required
-  scale: 0.7 
+  el: '#pikachu', // Required!
+  src: 'pikachu.jpg', // Required!
+  map: 'pikachu.map.jpg', // Required!
+  scale: 0.7 // Optional, default: 1 
 })
 ```
