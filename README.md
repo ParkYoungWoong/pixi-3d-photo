@@ -16,8 +16,8 @@ Check out WebGL support in your browser!<br />
 https://get.webgl.org
 
 For Chrome,<br />
-Enable the 'Use hardware acceleration when available' option in `chrome://settings`.<br />
-And check the WebGL item in the 'Graphics Feature Status' list in `chrome://gpu`.
+Enable the __'Use hardware acceleration when available'__ option in `chrome://settings`.<br />
+And check the WebGL item in the __'Graphics Feature Status'__ list in `chrome://gpu`.
 
 ## Installation
 
