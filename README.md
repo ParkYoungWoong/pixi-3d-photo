@@ -12,6 +12,13 @@ If this plugin does not work, Check your browser's hardware acceleration option.
 
 Image credit: [Create 3D Photo from Image JavaScript Tutorial, Red Stapler](https://redstapler.co/3d-photo-from-image-javascript-tutorial)
 
+Check out WebGL support in your browser!<br />
+https://get.webgl.org
+
+For Chrome,<br />
+Enable the 'Use hardware acceleration when available' option in `chrome://settings`.<br />
+And check the WebGL item in the 'Graphics Feature Status' list in `chrome://gpu`.
+
 ## Installation
 
 ```bash
